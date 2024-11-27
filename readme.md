@@ -19,7 +19,7 @@ To execute my code solutions yourself, follow these steps:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/heyitsmehassaan/CS-351L---AI-Lab-GitHub-Repository_2022385.git
+   git clone https://github.com/heyitsmehassaan/CS-351L-AI-LAB-GITHUB-REPOSITORY-2022385.git
    ```
 
 2. **Set Up Your Development Environment**
